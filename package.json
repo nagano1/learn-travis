@@ -4,7 +4,7 @@
     "type": "git",
     "url": "https://github.com/nelsonic/learn-travis.git"
   },
-  "description": "Simple nodejs, travis and grunt demo",
+  "description": "Simple nodejs, travis and grunt demo(Forked)",
   "author": "https://twitter.com/nelsonic",
   "version": "1.0.0",
   "devDependencies": {
